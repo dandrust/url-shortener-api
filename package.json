@@ -8,5 +8,9 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.5",
+    "valid-url": "^1.0.9"
+  }
 }
